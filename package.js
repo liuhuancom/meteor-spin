@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Simple spinner package for Meteor"
+  summary: "Simple spinner_liu package for Meteor"
 });
 
 Package.on_use(function (api, where) {
